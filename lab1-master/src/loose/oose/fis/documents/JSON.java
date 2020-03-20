@@ -18,7 +18,7 @@ public class JSON extends Document {
                 pos++;
             }
         }
-
+// coment
         return Arrays.copyOf(res, pos);
     }
 
