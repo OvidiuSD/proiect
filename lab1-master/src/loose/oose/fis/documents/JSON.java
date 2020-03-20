@@ -18,7 +18,11 @@ public class JSON extends Document {
                 pos++;
             }
         }
+<<<<<<< HEAD
 // coment2
+=======
+// coment
+>>>>>>> newBranc
         return Arrays.copyOf(res, pos);
     }
 
